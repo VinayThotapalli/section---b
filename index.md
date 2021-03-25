@@ -1,26 +1,21 @@
-Johnny Coder
+Vinay thotaplli
 ============
 
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+ MyAddress ; 4th line gandhinagar                      gmail; vinayvinay9346340184v@gmail.com
+MyTown medarmetal                          phone:8919638838
+MyCountry : india           
 -------------------     ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018-2022 (expected)
+:   **B.tech,informatation technolgy**;Rvr&jc college  (guntur)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2016-2018
+:   **intermediatet ; mpc**; abbhyas junior college(guntur)
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
